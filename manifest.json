@@ -1,0 +1,32 @@
+{
+  "apps": [
+    {
+      "id": "1",
+      "name": "IlluminateMount",
+      "author": "saintcpmshop-source",
+      "description": "Standalone ISO Mounter. Scan your USB or HDD and mount your PS3 game backups directly to the XMB with a single click.",
+      "url": "https://github.com/saintcpmshop-source/IlluminateX-PKGs/releases/latest/download/IlluminateMount.pkg"
+    },
+    {
+      "id": "2",
+      "name": "IlluminateCleaner",
+      "author": "saintcpmshop-source",
+      "description": "System utility. Clears the PS3 web browser cache and automatically fixes broken HDD file permissions.",
+      "url": "https://github.com/saintcpmshop-source/IlluminateX-PKGs/releases/latest/download/IlluminateCleaner.pkg"
+    },
+    {
+      "id": "3",
+      "name": "webMAN MOD",
+      "author": "Aldo",
+      "description": "The industry standard for PS3 game management, FTP serving, and fan control. Essential for all CFW users.",
+      "url": "https://github.com/aldostools/webMAN-MOD/releases/latest/download/webMAN_MOD_Installer.pkg"
+    },
+    {
+      "id": "4",
+      "name": "multiMAN",
+      "author": "DeanK",
+      "description": "The classic file manager and game backup manager for PlayStation 3.",
+      "url": "https://store.brewology.com/ahomebrew.php?brewid=24"
+    }
+  ]
+}
